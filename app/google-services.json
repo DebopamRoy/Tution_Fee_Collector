@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "677187726675",
+    "firebase_url": "https://tuition-fee-collector.firebaseio.com",
+    "project_id": "tuition-fee-collector",
+    "storage_bucket": "tuition-fee-collector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677187726675:android:e997332e7f49723672c5a6",
+        "android_client_info": {
+          "package_name": "com.mapobed.tutionfeecollector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677187726675-agurqlbnjeg2vg1jckc9bp7n5af28lu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB99zH2wCwzuU5Ua_ZiQ-NjLkODTw0WLrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677187726675-agurqlbnjeg2vg1jckc9bp7n5af28lu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

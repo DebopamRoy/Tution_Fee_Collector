@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mapobed.tutionfeecollector"
+    android:targetSandboxVersion="2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="30" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/tc"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/tc_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3653476691713377~3625108600" />
+
+        <activity android:name="com.mapobed.tutionfeecollector.Home.Teacher.Studentss.NewStudent.AddNewStudentActivity" />
+        <activity
+            android:name="com.mapobed.tutionfeecollector.Home.Teacher.Studentss.DetailsActivity.TeacherStudentDetailsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.mapobed.tutionfeecollector.Home.Student.Profile.Changee.ChangingEmailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.mapobed.tutionfeecollector.Home.Student.Profile.Changee.ChangingPhoneActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.mapobed.tutionfeecollector.Home.Student.Profile.Changee.ChangingPasswordActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.mapobed.tutionfeecollector.Home.Teacher.Payments.StudentByMonth.ShowPaidStudentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.mapobed.tutionfeecollector.Home.Teacher.Payments.StudentByMonth.StudentByMonthActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.mapobed.tutionfeecollector.Home.Teacher.Payments.MonthBasedActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.mapobed.tutionfeecollector.Home.Student.Profile.StudentProfileActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.mapobed.tutionfeecollector.Home.Student.Payment.StudentMonthlyPaymentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.mapobed.tutionfeecollector.Home.Student.Payment.PaymentPortal.StudentPaymentPortalActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.mapobed.tutionfeecollector.Home.Teacher.Studentss.MatesTeacherFinalActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.mapobed.tutionfeecollector.Home.Teacher.Studentss.MatesTeacherActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.mapobed.tutionfeecollector.Class.ClassActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.mapobed.tutionfeecollector.Home.Student.Mates.MatesStudentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.mapobed.tutionfeecollector.Help.HelpActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.mapobed.tutionfeecollector.Home.Teacher.TeacherActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.mapobed.tutionfeecollector.About.AboutActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.mapobed.tutionfeecollector.Home.Student.StudentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.mapobed.tutionfeecollector.Login.TeacherLoginActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.mapobed.tutionfeecollector.Login.StudentLoginActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.mapobed.tutionfeecollector.Login.PreLoginActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.mapobed.tutionfeecollector.Splash.SplashActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <service
+            android:name="com.google.firebase.components.ComponentDiscoveryService"
+            android:directBootAware="true"
+            android:exported="false" >
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+        </service> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent" />
+
+        <provider
+            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
+            android:authorities="com.mapobed.tutionfeecollector.mobileadsinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <service
+            android:name="com.google.android.gms.ads.AdService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.mapobed.tutionfeecollector.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

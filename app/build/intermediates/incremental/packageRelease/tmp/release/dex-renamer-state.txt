@@ -1,0 +1,4 @@
+#Mon Oct 12 17:28:28 IST 2020
+base.0=C\:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

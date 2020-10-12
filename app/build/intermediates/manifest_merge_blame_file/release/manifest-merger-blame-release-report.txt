@@ -1,0 +1,284 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mapobed.tutionfeecollector"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:5:5-80
+11-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:5:22-77
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:6:5-67
+12-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:6:22-64
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:7:5-81
+13-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:7:22-78
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:8:5-78
+14-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:8:22-76
+15    <uses-permission android:name="android.permission.WAKE_LOCK" />
+15-->[com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\f5a97bd272db94827414290091118a15\jetified-play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:25:5-68
+15-->[com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\f5a97bd272db94827414290091118a15\jetified-play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:25:22-65
+16
+17    <application
+17-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:10:5-102:19
+18        android:allowBackup="true"
+18-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:11:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.2.0] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\39c9f1b263ae8c5c4b9135a25be9f01a\core-1.2.0\AndroidManifest.xml:24:18-86
+20        android:icon="@mipmap/tc"
+20-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:12:9-34
+21        android:label="@string/app_name"
+21-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:13:9-41
+22        android:largeHeap="true"
+22-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:14:9-33
+23        android:roundIcon="@mipmap/tc_round"
+23-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:15:9-45
+24        android:supportsRtl="true"
+24-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:16:9-35
+25        android:theme="@style/AppTheme" >
+25-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:17:9-40
+26        <meta-data
+26-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:19:9-21:69
+27            android:name="com.google.android.gms.ads.APPLICATION_ID"
+27-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:20:13-69
+28            android:value="ca-app-pub-3653476691713377~3625108600" />
+28-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:21:13-67
+29
+30        <activity android:name="com.mapobed.tutionfeecollector.Home.Teacher.Studentss.NewStudent.AddNewStudentActivity" />
+30-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:23:9-132
+30-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:23:19-120
+31        <activity
+31-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:24:9-26:52
+32            android:name="com.mapobed.tutionfeecollector.Home.Teacher.Studentss.DetailsActivity.TeacherStudentDetailsActivity"
+32-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:25:13-127
+33            android:screenOrientation="portrait" />
+33-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:26:13-49
+34        <activity
+34-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:27:9-29:52
+35            android:name="com.mapobed.tutionfeecollector.Home.Student.Profile.Changee.ChangingEmailActivity"
+35-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:28:13-109
+36            android:screenOrientation="portrait" />
+36-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:29:13-49
+37        <activity
+37-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:30:9-32:52
+38            android:name="com.mapobed.tutionfeecollector.Home.Student.Profile.Changee.ChangingPhoneActivity"
+38-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:31:13-109
+39            android:screenOrientation="portrait" />
+39-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:32:13-49
+40        <activity
+40-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:33:9-35:52
+41            android:name="com.mapobed.tutionfeecollector.Home.Student.Profile.Changee.ChangingPasswordActivity"
+41-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:34:13-112
+42            android:screenOrientation="portrait" />
+42-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:35:13-49
+43        <activity
+43-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:36:9-38:52
+44            android:name="com.mapobed.tutionfeecollector.Home.Teacher.Payments.StudentByMonth.ShowPaidStudentActivity"
+44-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:37:13-119
+45            android:screenOrientation="portrait" />
+45-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:38:13-49
+46        <activity
+46-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:39:9-41:52
+47            android:name="com.mapobed.tutionfeecollector.Home.Teacher.Payments.StudentByMonth.StudentByMonthActivity"
+47-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:40:13-118
+48            android:screenOrientation="portrait" />
+48-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:41:13-49
+49        <activity
+49-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:42:9-44:52
+50            android:name="com.mapobed.tutionfeecollector.Home.Teacher.Payments.MonthBasedActivity"
+50-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:43:13-99
+51            android:screenOrientation="portrait" />
+51-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:44:13-49
+52        <activity
+52-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:45:9-47:52
+53            android:name="com.mapobed.tutionfeecollector.Home.Student.Profile.StudentProfileActivity"
+53-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:46:13-102
+54            android:screenOrientation="portrait" />
+54-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:47:13-49
+55        <activity
+55-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:48:9-50:52
+56            android:name="com.mapobed.tutionfeecollector.Home.Student.Payment.StudentMonthlyPaymentActivity"
+56-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:49:13-109
+57            android:screenOrientation="portrait" />
+57-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:50:13-49
+58        <activity
+58-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:51:9-53:52
+59            android:name="com.mapobed.tutionfeecollector.Home.Student.Payment.PaymentPortal.StudentPaymentPortalActivity"
+59-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:52:13-122
+60            android:screenOrientation="portrait" />
+60-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:53:13-49
+61        <activity
+61-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:54:9-56:52
+62            android:name="com.mapobed.tutionfeecollector.Home.Teacher.Studentss.MatesTeacherFinalActivity"
+62-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:55:13-107
+63            android:screenOrientation="portrait" />
+63-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:56:13-49
+64        <activity
+64-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:57:9-59:52
+65            android:name="com.mapobed.tutionfeecollector.Home.Teacher.Studentss.MatesTeacherActivity"
+65-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:58:13-102
+66            android:screenOrientation="portrait" />
+66-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:59:13-49
+67        <activity
+67-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:60:9-62:52
+68            android:name="com.mapobed.tutionfeecollector.Class.ClassActivity"
+68-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:61:13-78
+69            android:screenOrientation="portrait" />
+69-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:62:13-49
+70        <activity
+70-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:63:9-65:52
+71            android:name="com.mapobed.tutionfeecollector.Home.Student.Mates.MatesStudentActivity"
+71-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:64:13-98
+72            android:screenOrientation="portrait" />
+72-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:65:13-49
+73        <activity
+73-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:66:9-68:52
+74            android:name="com.mapobed.tutionfeecollector.Help.HelpActivity"
+74-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:67:13-76
+75            android:screenOrientation="portrait" />
+75-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:68:13-49
+76        <activity
+76-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:69:9-71:52
+77            android:name="com.mapobed.tutionfeecollector.Home.Teacher.TeacherActivity"
+77-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:70:13-87
+78            android:screenOrientation="portrait" />
+78-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:71:13-49
+79        <activity
+79-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:72:9-74:52
+80            android:name="com.mapobed.tutionfeecollector.About.AboutActivity"
+80-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:73:13-78
+81            android:screenOrientation="portrait" />
+81-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:74:13-49
+82        <activity
+82-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:75:9-77:52
+83            android:name="com.mapobed.tutionfeecollector.Home.Student.StudentActivity"
+83-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:76:13-87
+84            android:screenOrientation="portrait" />
+84-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:77:13-49
+85        <activity
+85-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:78:9-80:52
+86            android:name="com.mapobed.tutionfeecollector.Login.TeacherLoginActivity"
+86-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:79:13-85
+87            android:screenOrientation="portrait" />
+87-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:80:13-49
+88        <activity
+88-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:81:9-83:52
+89            android:name="com.mapobed.tutionfeecollector.Login.StudentLoginActivity"
+89-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:82:13-85
+90            android:screenOrientation="portrait" />
+90-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:83:13-49
+91        <activity
+91-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:84:9-86:52
+92            android:name="com.mapobed.tutionfeecollector.Login.PreLoginActivity"
+92-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:85:13-81
+93            android:screenOrientation="portrait" />
+93-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:86:13-49
+94        <activity
+94-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:87:9-96:20
+95            android:name="com.mapobed.tutionfeecollector.Splash.SplashActivity"
+95-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:88:13-80
+96            android:screenOrientation="portrait"
+96-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:89:13-49
+97            android:theme="@style/SplashTheme" >
+97-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:90:13-47
+98            <intent-filter>
+98-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:91:13-95:29
+99                <action android:name="android.intent.action.MAIN" />
+99-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:92:17-69
+99-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:92:25-66
+100
+101                <category android:name="android.intent.category.LAUNCHER" />
+101-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:94:17-77
+101-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:94:27-74
+102            </intent-filter>
+103        </activity>
+104
+105        <meta-data
+105-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:98:9-100:57
+106            android:name="preloaded_fonts"
+106-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:99:13-43
+107            android:resource="@array/preloaded_fonts" />
+107-->C:\Users\Debopam\AndroidStudioProjects\Internship\Tuition Organizer\app\src\main\AndroidManifest.xml:100:13-54
+108
+109        <service
+109-->[com.google.firebase:firebase-database:19.3.1] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\e30e59ef29af229bec0d877268a2f8a7\jetified-firebase-database-19.3.1\AndroidManifest.xml:29:9-35:19
+110            android:name="com.google.firebase.components.ComponentDiscoveryService"
+110-->[com.google.firebase:firebase-database:19.3.1] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\e30e59ef29af229bec0d877268a2f8a7\jetified-firebase-database-19.3.1\AndroidManifest.xml:30:13-84
+111            android:directBootAware="true"
+111-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\f5dd0f74c97373d04d5d3095684d2116\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+112            android:exported="false" >
+112-->[com.google.firebase:firebase-database:19.3.1] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\e30e59ef29af229bec0d877268a2f8a7\jetified-firebase-database-19.3.1\AndroidManifest.xml:31:13-37
+113            <meta-data
+113-->[com.google.firebase:firebase-database:19.3.1] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\e30e59ef29af229bec0d877268a2f8a7\jetified-firebase-database-19.3.1\AndroidManifest.xml:32:13-34:85
+114                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+114-->[com.google.firebase:firebase-database:19.3.1] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\e30e59ef29af229bec0d877268a2f8a7\jetified-firebase-database-19.3.1\AndroidManifest.xml:33:17-109
+115                android:value="com.google.firebase.components.ComponentRegistrar" />
+115-->[com.google.firebase:firebase-database:19.3.1] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\e30e59ef29af229bec0d877268a2f8a7\jetified-firebase-database-19.3.1\AndroidManifest.xml:34:17-82
+116        </service> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+117        <activity
+117-->[com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\e8424f3628ef20996c96cdb4d36dff58\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:29:9-33:64
+118            android:name="com.google.android.gms.ads.AdActivity"
+118-->[com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\e8424f3628ef20996c96cdb4d36dff58\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:30:13-65
+119            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+119-->[com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\e8424f3628ef20996c96cdb4d36dff58\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:31:13-122
+120            android:exported="false"
+120-->[com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\e8424f3628ef20996c96cdb4d36dff58\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:32:13-37
+121            android:theme="@android:style/Theme.Translucent" />
+121-->[com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\e8424f3628ef20996c96cdb4d36dff58\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:33:13-61
+122
+123        <provider
+123-->[com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\e8424f3628ef20996c96cdb4d36dff58\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:35:9-39:39
+124            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
+124-->[com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\e8424f3628ef20996c96cdb4d36dff58\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:36:13-76
+125            android:authorities="com.mapobed.tutionfeecollector.mobileadsinitprovider"
+125-->[com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\e8424f3628ef20996c96cdb4d36dff58\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:37:13-73
+126            android:exported="false"
+126-->[com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\e8424f3628ef20996c96cdb4d36dff58\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:38:13-37
+127            android:initOrder="100" />
+127-->[com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\e8424f3628ef20996c96cdb4d36dff58\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:39:13-36
+128
+129        <service
+129-->[com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\e8424f3628ef20996c96cdb4d36dff58\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:41:9-44:40
+130            android:name="com.google.android.gms.ads.AdService"
+130-->[com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\e8424f3628ef20996c96cdb4d36dff58\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:42:13-64
+131            android:enabled="true"
+131-->[com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\e8424f3628ef20996c96cdb4d36dff58\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:43:13-35
+132            android:exported="false" />
+132-->[com.google.android.gms:play-services-ads-lite:19.4.0] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\e8424f3628ef20996c96cdb4d36dff58\jetified-play-services-ads-lite-19.4.0\AndroidManifest.xml:44:13-37
+133
+134        <activity
+134-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\6784e7cd1bb7b0bfdcafd1b3549ebb9a\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+135            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+135-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\6784e7cd1bb7b0bfdcafd1b3549ebb9a\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+136            android:exported="false"
+136-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\6784e7cd1bb7b0bfdcafd1b3549ebb9a\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+137            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+137-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\6784e7cd1bb7b0bfdcafd1b3549ebb9a\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+138
+139        <provider
+139-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\f5dd0f74c97373d04d5d3095684d2116\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+140            android:name="com.google.firebase.provider.FirebaseInitProvider"
+140-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\f5dd0f74c97373d04d5d3095684d2116\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+141            android:authorities="com.mapobed.tutionfeecollector.firebaseinitprovider"
+141-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\f5dd0f74c97373d04d5d3095684d2116\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+142            android:exported="false"
+142-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\f5dd0f74c97373d04d5d3095684d2116\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+143            android:initOrder="100" />
+143-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\f5dd0f74c97373d04d5d3095684d2116\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+144
+145        <meta-data
+145-->[com.google.android.gms:play-services-basement:17.3.0] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\c250e4ebfd0f735b238398fa38e710ca\jetified-play-services-basement-17.3.0\AndroidManifest.xml:23:9-25:69
+146            android:name="com.google.android.gms.version"
+146-->[com.google.android.gms:play-services-basement:17.3.0] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\c250e4ebfd0f735b238398fa38e710ca\jetified-play-services-basement-17.3.0\AndroidManifest.xml:24:13-58
+147            android:value="@integer/google_play_services_version" />
+147-->[com.google.android.gms:play-services-basement:17.3.0] C:\Users\Debopam\.gradle\caches\transforms-2\files-2.1\c250e4ebfd0f735b238398fa38e710ca\jetified-play-services-basement-17.3.0\AndroidManifest.xml:25:13-66
+148    </application>
+149
+150</manifest>

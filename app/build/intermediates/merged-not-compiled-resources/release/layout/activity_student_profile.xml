@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/back_ground"
+    android:paddingTop="20dp"
+    android:paddingEnd="20dp"
+    android:paddingStart="20dp"
+    android:id="@+id/c1"
+    android:layout_height="match_parent"
+    tools:context=".Home.Student.Profile.StudentProfileActivity">
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:elevation="20dp"
+        android:src="@drawable/student_circle"
+        app:layout_constraintBottom_toTopOf="@+id/cardView2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/cardView2" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView2"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="21dp"
+        android:elevation="20dp"
+        app:cardCornerRadius="20dp"
+        app:layout_constraintBottom_toTopOf="@id/adView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="20dp">
+
+            <TextView
+                android:id="@+id/name_details"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/stroke_background_light"
+                android:fontFamily="@font/actor"
+                android:gravity="center_vertical"
+                android:padding="15dp"
+                android:text="Name: "
+                app:layout_constraintBottom_toTopOf="@+id/user_pro"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/user_pro"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/stroke_background_light"
+                android:fontFamily="@font/actor"
+                android:gravity="center_vertical"
+                android:padding="15dp"
+                android:text="Username: "
+                app:layout_constraintBottom_toTopOf="@+id/password_pro"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/name_details" />
+
+            <TextView
+                android:id="@+id/password_pro"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/stroke_background_light"
+                android:drawableEnd="@drawable/ic_twotone_edit_24"
+                android:fontFamily="@font/actor"
+                android:gravity="center_vertical"
+                android:padding="10dp"
+                android:text="Password: "
+                app:layout_constraintBottom_toTopOf="@+id/phone_pro"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/user_pro" />
+
+            <TextView
+                android:id="@+id/college_pro"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/stroke_background_light"
+                android:fontFamily="@font/actor"
+                android:gravity="center_vertical"
+                android:padding="15dp"
+                android:text="College: "
+                app:layout_constraintBottom_toTopOf="@+id/email_pro"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/phone_pro" />
+
+            <TextView
+                android:id="@+id/email_pro"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/stroke_background_light"
+                android:drawableEnd="@drawable/ic_twotone_edit_24"
+                android:fontFamily="@font/actor"
+                android:gravity="center_vertical"
+                android:padding="10dp"
+                android:text="Email Address: "
+                app:layout_constraintBottom_toTopOf="@+id/months_paid_pro"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/college_pro" />
+
+            <TextView
+                android:id="@+id/phone_pro"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/stroke_background_light"
+                android:drawableEnd="@drawable/ic_twotone_edit_24"
+                android:fontFamily="@font/actor"
+                android:gravity="center_vertical"
+                android:padding="10dp"
+                android:text="Phone: "
+                app:layout_constraintBottom_toTopOf="@+id/college_pro"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/password_pro" />
+
+            <TextView
+                android:id="@+id/months_paid_pro"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/stroke_background_light"
+                android:fontFamily="@font/actor"
+                android:gravity="center_vertical"
+                android:padding="15dp"
+                android:text="Months Paid: "
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/email_pro" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        app:adSize="BANNER"
+        app:adUnitId="ca-app-pub-3653476691713377/8205645158"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

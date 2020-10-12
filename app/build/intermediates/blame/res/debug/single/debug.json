@@ -1,0 +1,418 @@
+[
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_teacher_login.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\layout\\activity_teacher_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_outline_account_balance_24.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\ic_outline_account_balance_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_february.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\february.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_november.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\november.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\raw_nothing_to_show.json.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\raw\\nothing_to_show.json"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_yor_mapobed.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable-v24\\yor_mapobed.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_back_ground.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable-xxhdpi\\back_ground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_teacher.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable-v24\\teacher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_student.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable-v24\\student.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_mate_student_item_layout.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\layout\\mate_student_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_tc_round.png.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\mipmap-hdpi\\tc_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_june.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\june.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_tc.png.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\mipmap-xxhdpi\\tc.png"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_outline_account_circle_24.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\ic_outline_account_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_help.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mode_of_payment.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\mode_of_payment.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_tc_round.png.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\mipmap-xxhdpi\\tc_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_tc.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\mipmap-anydpi-v26\\tc.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_student_payment_portal.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\layout\\activity_student_payment_portal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_student_mates.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\layout\\activity_student_mates.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_outline_info_24.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\ic_outline_info_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_upi_payment_bottom_sheet_layout.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\layout\\upi_payment_bottom_sheet_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_mates_teacher_item_layout.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\layout\\mates_teacher_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_tc_foreground.png.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\mipmap-xxhdpi\\tc_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_tc_foreground.png.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\mipmap-xxxhdpi\\tc_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_january.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\january.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_classroom.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\classroom.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_tc.png.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\mipmap-xxxhdpi\\tc.png"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_tc.png.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\mipmap-hdpi\\tc.png"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_month_item_layout.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\layout\\month_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_twotone_edit_24.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\ic_twotone_edit_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_teacher_circle.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\teacher_circle.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_back_ground.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable-xhdpi\\back_ground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_uoc.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\uoc.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_tc_round.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\mipmap-anydpi-v26\\tc_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_new_student.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\layout\\activity_add_new_student.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_back_ground.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable-mdpi\\back_ground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_student.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\layout\\activity_student.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\font_actor.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\font\\actor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hello.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\hello.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_screen.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_tc_round.png.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\mipmap-mdpi\\tc_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_back_ground.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable-ldpi\\back_ground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pre_login.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\layout\\activity_pre_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_back_ground.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable-xxxhdpi\\back_ground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_december.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\december.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_changing_email.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\layout\\activity_changing_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\raw_loading.json.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\raw\\loading.json"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\font_exo_2_semibold.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\font\\exo_2_semibold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_student_monthly_payment.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\layout\\activity_student_monthly_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\font_aldrich.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\font\\aldrich.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_teacher_student_details.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\layout\\activity_teacher_student_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_password_changing.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\layout\\activity_password_changing.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stroke_background.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\stroke_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_july.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\july.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gpay.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\gpay.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_september.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\september.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_march.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\march.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_august.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\august.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_tc_foreground.png.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\mipmap-mdpi\\tc_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_april.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\april.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\font_acme.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\font\\acme.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_outline_local_phone_24.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\ic_outline_local_phone_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_may.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\may.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_changing_phone.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\layout\\activity_changing_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_tc_round.png.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\mipmap-xhdpi\\tc_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_student_profile.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\layout\\activity_student_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_tc.png.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\mipmap-xhdpi\\tc.png"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\font_boogaloo.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\font\\boogaloo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mates_teacher.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\layout\\activity_mates_teacher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stroke_background_light.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\stroke_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back_ground.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable-hdpi\\back_ground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_student_login.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\layout\\activity_student_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_student_circle.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\student_circle.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_show_paid_student.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\layout\\activity_show_paid_student.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_class.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\layout\\activity_class.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile_stu.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\profile_stu.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_paid_student_item_layout.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\layout\\paid_student_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_student_home_rec_view_item_layout.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\layout\\student_home_rec_view_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinner_item_layout.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\layout\\spinner_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_outline_email_24.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\ic_outline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_october.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\october.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mapo_bed.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\mapo_bed.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_developer.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\developer.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_exit.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\exit.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_student_by_month.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\layout\\activity_student_by_month.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_month_based.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\layout\\activity_month_based.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_pre_student_layout.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\layout\\pre_student_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_paytm.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\paytm.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_tc.png.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\mipmap-mdpi\\tc.png"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mates_teacher_final.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\layout\\activity_mates_teacher_final.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_phonepay.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\phonepay.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_tc_round.png.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\mipmap-xxxhdpi\\tc_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_tc_foreground.png.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\mipmap-hdpi\\tc_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_help.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\help.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_outline_date_range_24.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\ic_outline_date_range_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_teacher.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\layout\\activity_teacher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_payment.webp.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\drawable\\payment.webp"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_pre_teacher_layout.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\layout\\pre_teacher_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_tc_foreground.png.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\mipmap-xhdpi\\tc_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\build\\intermediates\\res\\merged\\debug\\font_aclonica.xml.flat",
+        "source": "C:\\Users\\Debopam\\AndroidStudioProjects\\Internship\\Tuition Organizer\\app\\src\\main\\res\\font\\aclonica.xml"
+    }
+]

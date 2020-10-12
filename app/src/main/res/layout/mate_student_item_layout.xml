@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_margin="5dp"
+    android:background="@drawable/stroke_background_light"
+    android:elevation="5dp"
+    android:padding="10dp"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:src="@drawable/student_circle"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/mate_name"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/mate_name"
+        android:layout_width="0dp"
+        android:textColor="#3C3C3C"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/aldrich"
+        android:textSize="18dp"
+        android:text="Debopam Roy"
+        android:padding="5dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageView2"
+        app:layout_constraintBottom_toTopOf="@+id/mate_college"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/mate_college"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ic_outline_account_balance_24"
+        android:drawablePadding="10dp"
+        android:fontFamily="@font/actor"
+        android:padding="5dp"
+        android:text="Bangabasi Morning College"
+        app:layout_constraintBottom_toTopOf="@+id/mate_phone"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageView2"
+        app:layout_constraintTop_toBottomOf="@+id/mate_name" />
+
+    <TextView
+        android:id="@+id/mate_phone"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ic_outline_local_phone_24"
+        android:drawablePadding="10dp"
+        android:fontFamily="@font/actor"
+        android:padding="5dp"
+        android:text="6290060688"
+        app:layout_constraintBottom_toTopOf="@+id/mate_email"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/imageView2"
+        app:layout_constraintTop_toBottomOf="@+id/mate_college" />
+
+    <TextView
+        android:id="@+id/mate_email"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:drawableStart="@drawable/ic_outline_email_24"
+        android:drawablePadding="10dp"
+        android:fontFamily="@font/actor"
+        android:padding="5dp"
+        android:text="debo.roy79@gmail.com"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageView2"
+        app:layout_constraintTop_toBottomOf="@+id/mate_phone" />
+</androidx.constraintlayout.widget.ConstraintLayout>

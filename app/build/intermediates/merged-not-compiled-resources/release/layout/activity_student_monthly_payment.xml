@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/co"
+    android:background="@drawable/back_ground"
+    android:paddingTop="20dp"
+    android:paddingStart="20dp"
+    android:paddingEnd="20dp"
+    tools:context=".Home.Student.Payment.StudentMonthlyPaymentActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/stroke_background_light"
+        android:elevation="10dp"
+        android:padding="20dp"
+        app:layout_constraintBottom_toTopOf="@+id/payy"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/acme"
+            android:padding="10dp"
+            android:text="SELECT THE MONTHS YOU WANT TO PAY FOR :"
+            android:textColor="#000000"
+            app:layout_constraintBottom_toTopOf="@+id/jan"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <CheckBox
+            android:id="@+id/jan"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/aldrich"
+            android:padding="5dp"
+            android:text="January"
+            app:layout_constraintBottom_toTopOf="@+id/mar"
+            app:layout_constraintEnd_toStartOf="@+id/feb"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView8" />
+
+        <CheckBox
+            android:id="@+id/feb"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/aldrich"
+            android:padding="5dp"
+            android:text="February"
+            app:layout_constraintBottom_toTopOf="@+id/apr"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/jan"
+            app:layout_constraintTop_toBottomOf="@+id/textView8" />
+
+        <CheckBox
+            android:id="@+id/mar"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/aldrich"
+            android:padding="5dp"
+            android:text="March"
+            app:layout_constraintBottom_toTopOf="@+id/may"
+            app:layout_constraintEnd_toStartOf="@+id/apr"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/jan" />
+
+        <CheckBox
+            android:id="@+id/apr"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/aldrich"
+            android:padding="5dp"
+            android:text="April"
+            app:layout_constraintBottom_toTopOf="@+id/jun"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/mar"
+            app:layout_constraintTop_toBottomOf="@id/feb" />
+
+        <CheckBox
+            android:id="@+id/may"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/aldrich"
+            android:padding="5dp"
+            android:text="May"
+            app:layout_constraintBottom_toTopOf="@+id/jul"
+            app:layout_constraintEnd_toStartOf="@+id/jun"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/mar" />
+
+        <CheckBox
+            android:id="@+id/jun"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/aldrich"
+            android:padding="5dp"
+            android:text="June"
+            app:layout_constraintBottom_toTopOf="@+id/aug"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/may"
+            app:layout_constraintTop_toBottomOf="@id/apr" />
+
+        <CheckBox
+            android:id="@+id/jul"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/aldrich"
+            android:padding="5dp"
+            android:text="July"
+            app:layout_constraintBottom_toTopOf="@+id/sep"
+            app:layout_constraintEnd_toStartOf="@+id/aug"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/may" />
+
+        <CheckBox
+            android:id="@+id/aug"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/aldrich"
+            android:padding="5dp"
+            android:text="August"
+            app:layout_constraintBottom_toTopOf="@+id/oct"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/jul"
+            app:layout_constraintTop_toBottomOf="@id/jun" />
+
+        <CheckBox
+            android:id="@+id/sep"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="1dp"
+            android:fontFamily="@font/aldrich"
+            android:padding="5dp"
+            android:text="September"
+            app:layout_constraintBottom_toTopOf="@+id/nov"
+            app:layout_constraintEnd_toStartOf="@+id/oct"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/jul" />
+
+        <CheckBox
+            android:id="@+id/oct"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/aldrich"
+            android:padding="5dp"
+            android:text="October"
+            app:layout_constraintBottom_toTopOf="@+id/dec"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/sep"
+            app:layout_constraintTop_toBottomOf="@id/aug" />
+
+        <CheckBox
+            android:id="@+id/nov"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="1dp"
+            android:fontFamily="@font/aldrich"
+            android:padding="5dp"
+            android:text="November"
+            app:layout_constraintEnd_toStartOf="@+id/dec"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/sep" />
+
+        <CheckBox
+            android:id="@+id/dec"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/aldrich"
+            android:padding="5dp"
+            android:text="December"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/nov"
+            app:layout_constraintTop_toBottomOf="@id/oct" />
+
+        <TextView
+            android:id="@+id/total"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/aldrich"
+            android:padding="20dp"
+            android:text="Total: 0 Rs."
+            android:textColor="#000000"
+            app:layout_constraintBottom_toTopOf="@+id/month_to_be_paid"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/nov" />
+
+        <TextView
+            android:id="@+id/month_to_be_paid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/aldrich"
+            android:padding="20dp"
+            android:text="Months: "
+            android:textColor="#000000"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/total" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <Button
+        android:id="@+id/payy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/stroke_background_light"
+        android:elevation="20dp"
+        android:fontFamily="@font/aldrich"
+        android:text="Pay"
+        android:textAllCaps="false"
+        app:layout_constraintBottom_toTopOf="@+id/adView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/constraintLayout4" />
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        app:adSize="BANNER"
+        app:adUnitId="ca-app-pub-3653476691713377/2669590909"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+    </com.google.android.gms.ads.AdView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
